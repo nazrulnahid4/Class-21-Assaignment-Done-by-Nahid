@@ -1,0 +1,32 @@
+.banner-info{
+  top: 255px;
+  font-size: 30px;
+}
+.logo{
+  cursor: pointer;
+}
+.banner-info h5{
+  font-size: 25px;
+  font-weight: normal;
+}
+.banner-info p{
+  font-size: 10px;
+}
+.bqs{
+  font-size: 12px;
+}
+.thname{
+  font-size: 12px;
+}
+.trname{
+  font-size: 14px;
+}
+.table-section{
+  padding: 50px 0;
+}
+.navbar-mar{
+  margin-left: 65px;
+}
+body{
+  overflow-x: hidden;
+}
